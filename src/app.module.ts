@@ -1,7 +1,6 @@
 import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
-import { AreaController } from './controllers/area/area/area.controller';
 import { MedicoController } from './controllers/medico/medico.controller';
 import { AreaController } from './controllers/area/area.controller';
 import { CitasController } from './controllers/citas/citas.controller';
