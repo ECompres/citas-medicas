@@ -1,4 +1,4 @@
-export interface IUsuario {
+export class UsuarioDTO {
     _id: string;
     Nombres: string;
     Apellidos: string;
